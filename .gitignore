@@ -2,4 +2,6 @@ variable.tf
 network_acl.tf.old
 terraform_ec2_key
 terraform_ec2_key.pub
-.terraform 
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
